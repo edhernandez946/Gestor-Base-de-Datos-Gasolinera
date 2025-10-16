@@ -1,0 +1,22 @@
+# Carpeta de compilación
+/build/
+
+# Archivos de usuario de Qt Creator
+*.user
+*.pro.user
+*.qmake.stash
+
+# Archivos generados por CMake/Qt
+*.moc
+*.obj
+*.o
+*.exe
+*.dll
+*.log
+*.qrc
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
